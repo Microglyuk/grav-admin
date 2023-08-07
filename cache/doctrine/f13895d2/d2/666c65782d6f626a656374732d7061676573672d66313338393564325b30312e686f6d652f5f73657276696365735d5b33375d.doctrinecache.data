@@ -1,0 +1,18 @@
+1690897650
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_services";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:12:"Сервіс";s:4:"menu";s:12:"Сервіс";s:8:"services";a:4:{i:0;a:2:{s:4:"icon";s:6:"s1.png";s:5:"title";s:14:"FULLY EDITABLE";}i:1;a:2:{s:4:"icon";s:6:"s2.png";s:5:"title";s:13:"FREE DOWNLOAD";}i:2;a:2:{s:4:"icon";s:6:"s3.png";s:5:"title";s:13:"MODERN DESIGN";}i:3;a:2:{s:4:"icon";s:6:"s4.png";s:5:"title";s:15:"100% RESPONSIVE";}}}s:11:"frontmatter";s:283:"title: Сервіс
+menu: Сервіс
+services:
+    -
+        icon: s1.png
+        title: 'FULLY EDITABLE'
+    -
+        icon: s2.png
+        title: 'FREE DOWNLOAD'
+    -
+        icon: s3.png
+        title: 'MODERN DESIGN'
+    -
+        icon: s4.png
+        title: '100% RESPONSIVE'";s:8:"markdown";s:180:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et<br>
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_services";s:11:"storage_key";s:17:"01.home/_services";s:8:"template";s:8:"services";s:17:"storage_timestamp";i:1690894399;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"services";i:1690894399;}}s:8:"checksum";s:32:"d800f1d78049963e50f9cacb0fb9870e";}}

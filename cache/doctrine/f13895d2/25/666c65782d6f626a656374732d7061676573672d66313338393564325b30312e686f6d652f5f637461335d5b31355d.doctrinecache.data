@@ -1,0 +1,7 @@
+1690896062
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_cta3";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:24:"Комплектуючі";s:4:"menu";s:24:"Комплектуючі";s:12:"button_label";s:8:"Далі";s:10:"button_url";s:1:"#";s:5:"image";s:20:"KONSI_Ondo_lista.png";}s:11:"frontmatter";s:129:"title: Комплектуючі
+menu: Комплектуючі
+button_label: Далі
+button_url: '#'
+image: KONSI_Ondo_lista.png";s:8:"markdown";s:398:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
+";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_cta3";s:11:"storage_key";s:13:"01.home/_cta3";s:8:"template";s:4:"cta3";s:17:"storage_timestamp";i:1690890066;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"cta3";i:1690890066;}}s:8:"checksum";s:32:"5a33c0a54ee1d9c715c0700949c3e288";}}

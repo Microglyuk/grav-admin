@@ -1,0 +1,6 @@
+1690896642
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:9:"home/_map";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:3:"Map";s:8:"latitude";d:48.8583698;s:9:"longitude";d:2.2944833;s:19:"google_maps_api_key";s:39:"AIzaSyB1RuNui5M-brzi0-rv9UpJQu8cvNp992w";s:4:"zoom";i:12;}s:11:"frontmatter";s:122:"title: Map
+latitude: 48.8583698
+longitude: 2.2944833
+google_maps_api_key: AIzaSyB1RuNui5M-brzi0-rv9UpJQu8cvNp992w
+zoom: 12";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:9:"home/_map";s:11:"storage_key";s:12:"01.home/_map";s:8:"template";s:3:"map";s:17:"storage_timestamp";i:1690807642;s:8:"markdown";a:1:{s:0:"";a:1:{s:3:"map";i:1649236780;}}s:8:"checksum";s:32:"d8f6475fbcb9fc7ae56814db542a909b";}}

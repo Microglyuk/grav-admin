@@ -1,0 +1,8 @@
+1690894555
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"home/_updates";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:12:"Статті";s:10:"blog_route";s:5:"/blog";s:15:"show_more_label";s:9:"SHOW MORE";s:18:"blog_post_quantity";s:1:"3";s:4:"menu";s:12:"Статті";}s:11:"frontmatter";s:109:"title: Статті
+blog_route: /blog
+show_more_label: 'SHOW MORE'
+blog_post_quantity: '3'
+menu: Статті";s:8:"markdown";s:180:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et<br>
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+";}s:7:"storage";a:6:{s:3:"key";s:13:"home/_updates";s:11:"storage_key";s:16:"01.home/_updates";s:8:"template";s:7:"updates";s:17:"storage_timestamp";i:1690892598;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"updates";i:1690892598;}}s:8:"checksum";s:32:"fbec9b451ff146a2e57d1972e3833f3f";}}

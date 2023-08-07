@@ -1,0 +1,10 @@
+1690896566
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_cta2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:55:"Теплові насоси та комплектучі";s:12:"button_label";s:9:"SHOW MORE";s:10:"button_url";s:1:"#";s:16:"background_image";s:16:"freepsdanner.jpg";}s:11:"frontmatter";s:141:"title: 'Теплові насоси та комплектучі'
+button_label: 'SHOW MORE'
+button_url: '#'
+background_image: freepsdanner.jpg";s:8:"markdown";s:30:"</br>
+</br>
+</br>
+</br>
+</br>
+";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_cta2";s:11:"storage_key";s:13:"01.home/_cta2";s:8:"template";s:4:"cta2";s:17:"storage_timestamp";i:1690895965;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"cta2";i:1690895965;}}s:8:"checksum";s:32:"524eeab3007b20fa40137a7a6a66caee";}}

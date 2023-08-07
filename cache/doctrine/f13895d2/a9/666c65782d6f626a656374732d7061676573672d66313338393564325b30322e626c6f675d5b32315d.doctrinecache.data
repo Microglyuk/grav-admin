@@ -1,0 +1,23 @@
+1690896390
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"blog";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:4:"Blog";s:8:"blog_url";s:4:"blog";s:7:"sitemap";a:2:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:1.03;}s:7:"content";a:4:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:5:"limit";i:6;s:10:"pagination";b:1;}s:4:"feed";a:2:{s:11:"description";s:23:"Sample Blog Description";s:5:"limit";i:10;}s:10:"pagination";b:1;}s:11:"frontmatter";s:275:"title: Blog
+blog_url: blog
+
+sitemap:
+    changefreq: monthly
+    priority: 1.03
+
+content:
+    items: @self.children
+    order:
+        by: date
+        dir: desc
+    limit: 6
+    pagination: true
+
+feed:
+    description: Sample Blog Description
+    limit: 10
+
+pagination: true";s:8:"markdown";s:176:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+";}s:7:"storage";a:7:{s:3:"key";s:4:"blog";s:11:"storage_key";s:7:"02.blog";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1690807641;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1649236780;}}s:8:"children";a:9:{s:27:"classic-modern-architecture";b:0;s:20:"daring-fireball-link";b:0;s:7:"df-link";b:0;s:14:"focus-and-blur";b:0;s:20:"just-some-text-today";b:0;s:15:"london-industry";b:0;s:15:"random-thoughts";b:0;s:21:"sunshine-in-the-hills";b:0;s:16:"the-urban-jungle";b:0;}s:8:"checksum";s:32:"8a7e5d4acfd4ecb8e4a0bee37ad98f2e";}}

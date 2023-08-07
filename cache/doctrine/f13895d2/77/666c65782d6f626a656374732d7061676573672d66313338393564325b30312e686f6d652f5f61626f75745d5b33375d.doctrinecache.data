@@ -1,0 +1,8 @@
+1690897650
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"home/_about";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:64:"Дізнайся більше про теплові насоси";s:4:"menu";s:27:"Теплові насоси";s:11:"right_image";s:21:"KONSI_Kiryu_lista.png";s:15:"right_image_alt";s:26:"POZNAJ NASZE POMPY CIEPŁA";s:10:"button_url";s:7:"http:\\";s:12:"button_label";s:8:"Далі";}s:11:"frontmatter";s:235:"title: 'Дізнайся більше про теплові насоси'
+menu: 'Теплові насоси'
+right_image: KONSI_Kiryu_lista.png
+right_image_alt: 'POZNAJ NASZE POMPY CIEPŁA'
+button_url: 'http:\\'
+button_label: Далі";s:8:"markdown";s:148:"W ofercie KONSI znajdziesz dwa rodzaje pomp ciepła. Różnią się nie tylko designem, lecz przede wszystkim zastosowanym czynnikiem chłodniczym.
+";}s:7:"storage";a:6:{s:3:"key";s:11:"home/_about";s:11:"storage_key";s:14:"01.home/_about";s:8:"template";s:5:"about";s:17:"storage_timestamp";i:1690895461;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"about";i:1690895461;}}s:8:"checksum";s:32:"f00ffbfcb3e517deda0b14aa6987de9a";}}

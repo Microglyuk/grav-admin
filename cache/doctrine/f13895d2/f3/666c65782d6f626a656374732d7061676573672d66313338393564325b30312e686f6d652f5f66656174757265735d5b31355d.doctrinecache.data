@@ -1,0 +1,28 @@
+1690896062
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_features";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:8:"Features";s:4:"menu";s:24:"Представники";s:8:"features";a:6:{i:0;a:3:{s:4:"icon";s:5:"1.png";s:5:"title";s:15:"HIGH RESOLUTION";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}i:1;a:3:{s:4:"icon";s:5:"2.png";s:5:"title";s:11:"PHOTOGRAPHY";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}i:2;a:3:{s:4:"icon";s:5:"3.png";s:5:"title";s:17:"EASY TO CUSTOMIZE";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}i:3;a:3:{s:4:"icon";s:5:"4.png";s:5:"title";s:12:"24/7 SUPPORT";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}i:4;a:3:{s:4:"icon";s:5:"5.png";s:5:"title";s:15:"POWERFULL THEME";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}i:5;a:3:{s:4:"icon";s:5:"6.png";s:5:"title";s:16:"SEO OPTIMIZATION";s:11:"description";s:112:"Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";}}}s:11:"frontmatter";s:1220:"title: Features
+menu: Представники
+features:
+    -
+        icon: 1.png
+        title: 'HIGH RESOLUTION'
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    -
+        icon: 2.png
+        title: PHOTOGRAPHY
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    -
+        icon: 3.png
+        title: 'EASY TO CUSTOMIZE'
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    -
+        icon: 4.png
+        title: '24/7 SUPPORT'
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    -
+        icon: 5.png
+        title: 'POWERFULL THEME'
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+    -
+        icon: 6.png
+        title: 'SEO OPTIMIZATION'
+        description: 'Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_features";s:11:"storage_key";s:17:"01.home/_features";s:8:"template";s:8:"features";s:17:"storage_timestamp";i:1690890346;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"features";i:1690890346;}}s:8:"checksum";s:32:"30dd3e842fb80d2ec7efe65d4d93717b";}}

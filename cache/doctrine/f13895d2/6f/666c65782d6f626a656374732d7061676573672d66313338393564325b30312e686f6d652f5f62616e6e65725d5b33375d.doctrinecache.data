@@ -1,0 +1,10 @@
+1690897650
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"home/_banner";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:23:"Mache FREE psd Template";s:4:"menu";s:4:"Home";s:7:"heading";s:36:"<span>Mache</span> FREE psd Template";s:12:"button_label";s:9:"SHOW MORE";s:10:"button_url";s:1:"#";s:16:"background_image";s:26:"KONSI-pompy-ciepla-tlo.jpg";s:9:"published";b:0;}s:11:"frontmatter";s:195:"title: 'Mache FREE psd Template'
+menu: Home
+heading: '<span>Mache</span> FREE psd Template'
+button_label: 'SHOW MORE'
+button_url: '#'
+background_image: KONSI-pompy-ciepla-tlo.jpg
+published: false";s:8:"markdown";s:10:"Test
+Test
+";}s:7:"storage";a:6:{s:3:"key";s:12:"home/_banner";s:11:"storage_key";s:15:"01.home/_banner";s:8:"template";s:6:"banner";s:17:"storage_timestamp";i:1690893796;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"banner";i:1690893796;}}s:8:"checksum";s:32:"d5a15702ec6da1793dcc0f18416f73c0";}}

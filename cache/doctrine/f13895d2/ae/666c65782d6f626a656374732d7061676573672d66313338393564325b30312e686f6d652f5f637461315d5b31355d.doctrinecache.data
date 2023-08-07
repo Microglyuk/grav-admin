@@ -1,0 +1,5 @@
+1690896061
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_cta1";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:14:"Call to Action";s:7:"heading";s:39:"Купуй ТЕПЛОВІ НАСОСИ!";s:12:"button_label";s:16:"Контакти";s:10:"button_url";s:1:"#";}s:11:"frontmatter";s:121:"title: 'Call to Action'
+heading: 'Купуй ТЕПЛОВІ НАСОСИ!'
+button_label: Контакти
+button_url: '#'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_cta1";s:11:"storage_key";s:13:"01.home/_cta1";s:8:"template";s:4:"cta1";s:17:"storage_timestamp";i:1690892746;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"cta1";i:1690892746;}}s:8:"checksum";s:32:"15762a1bfb5ffa4f6d6a0482787da2ec";}}

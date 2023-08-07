@@ -1,0 +1,65 @@
+1690896623
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"home/_prices";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:16:"Check Our Prices";s:4:"menu";s:6:"Prices";s:8:"currency";s:1:"$";s:16:"buy_button_label";s:7:"BUY NOW";s:6:"prices";a:4:{i:0;a:5:{s:6:"amount";s:2:"19";s:8:"interval";s:9:"per month";s:5:"title";s:8:"STANDARD";s:14:"buy_button_url";s:1:"#";s:8:"features";a:4:{i:0;a:1:{s:5:"title";s:10:"5 Projects";}i:1;a:1:{s:5:"title";s:14:"200 MB Storage";}i:2;a:1:{s:5:"title";s:21:"Notification settings";}i:3;a:1:{s:5:"title";s:19:"Password protection";}}}i:1;a:5:{s:6:"amount";s:2:"39";s:8:"interval";s:9:"per month";s:5:"title";s:8:"BUSINESS";s:14:"buy_button_url";s:1:"#";s:8:"features";a:4:{i:0;a:1:{s:5:"title";s:11:"15 Projects";}i:1;a:1:{s:5:"title";s:12:"1 GB Storage";}i:2;a:1:{s:5:"title";s:21:"Notification settings";}i:3;a:1:{s:5:"title";s:19:"Password protection";}}}i:2;a:5:{s:6:"amount";s:2:"59";s:8:"interval";s:9:"per month";s:5:"title";s:7:"PREMIUM";s:14:"buy_button_url";s:1:"#";s:8:"features";a:4:{i:0;a:1:{s:5:"title";s:11:"30 Projects";}i:1;a:1:{s:5:"title";s:12:"2 GB Storage";}i:2;a:1:{s:5:"title";s:21:"Notification settings";}i:3;a:1:{s:5:"title";s:19:"Password protection";}}}i:3;a:5:{s:6:"amount";s:2:"99";s:8:"interval";s:9:"per month";s:5:"title";s:9:"UNLIMITED";s:14:"buy_button_url";s:1:"#";s:8:"features";a:4:{i:0;a:1:{s:5:"title";s:18:"Unlimited Projects";}i:1;a:1:{s:5:"title";s:18:"Unlimited Projects";}i:2;a:1:{s:5:"title";s:21:"Notification settings";}i:3;a:1:{s:5:"title";s:19:"Password protection";}}}}s:9:"published";b:0;}s:11:"frontmatter";s:1517:"title: 'Check Our Prices'
+menu: Prices
+currency: $
+buy_button_label: 'BUY NOW'
+prices:
+    -
+        amount: '19'
+        interval: 'per month'
+        title: STANDARD
+        buy_button_url: '#'
+        features:
+            -
+                title: '5 Projects'
+            -
+                title: '200 MB Storage'
+            -
+                title: 'Notification settings'
+            -
+                title: 'Password protection'
+    -
+        amount: '39'
+        interval: 'per month'
+        title: BUSINESS
+        buy_button_url: '#'
+        features:
+            -
+                title: '15 Projects'
+            -
+                title: '1 GB Storage'
+            -
+                title: 'Notification settings'
+            -
+                title: 'Password protection'
+    -
+        amount: '59'
+        interval: 'per month'
+        title: PREMIUM
+        buy_button_url: '#'
+        features:
+            -
+                title: '30 Projects'
+            -
+                title: '2 GB Storage'
+            -
+                title: 'Notification settings'
+            -
+                title: 'Password protection'
+    -
+        amount: '99'
+        interval: 'per month'
+        title: UNLIMITED
+        buy_button_url: '#'
+        features:
+            -
+                title: 'Unlimited Projects'
+            -
+                title: 'Unlimited Projects'
+            -
+                title: 'Notification settings'
+            -
+                title: 'Password protection'
+published: false";s:8:"markdown";s:176:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+";}s:7:"storage";a:6:{s:3:"key";s:12:"home/_prices";s:11:"storage_key";s:15:"01.home/_prices";s:8:"template";s:6:"prices";s:17:"storage_timestamp";i:1690893515;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"prices";i:1690893515;}}s:8:"checksum";s:32:"3f2d3d16bd369fda259324e2dc206d9f";}}

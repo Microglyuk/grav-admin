@@ -1,0 +1,13 @@
+1690897680
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"home/_testimonials";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:12:"Testimonials";s:12:"opening_icon";s:10:"quote1.png";s:12:"closing_icon";s:10:"quote2.png";s:16:"background_image";s:22:"testimonialsbanner.jpg";s:12:"testimonials";a:3:{i:0;a:1:{s:11:"testimonial";s:212:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.";}i:1;a:1:{s:11:"testimonial";s:212:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.";}i:2;a:1:{s:11:"testimonial";s:212:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.";}}s:9:"published";b:0;}s:11:"frontmatter";s:867:"title: Testimonials
+opening_icon: quote1.png
+closing_icon: quote2.png
+background_image: testimonialsbanner.jpg
+testimonials:
+    -
+        testimonial: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.'
+    -
+        testimonial: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.'
+    -
+        testimonial: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, std do eiusmod tempor incididunt ut labore tet dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.'
+published: false";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:18:"home/_testimonials";s:11:"storage_key";s:21:"01.home/_testimonials";s:8:"template";s:12:"testimonials";s:17:"storage_timestamp";i:1690894283;s:8:"markdown";a:1:{s:0:"";a:1:{s:12:"testimonials";i:1690894283;}}s:8:"checksum";s:32:"6f7add1879b49404255961440486c6f6";}}

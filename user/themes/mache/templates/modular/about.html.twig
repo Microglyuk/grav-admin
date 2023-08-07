@@ -1,0 +1,21 @@
+<div class="video">
+    <div class="container">
+          <div class="row">
+            <div class="col-lg-6 col-sm-6 col-md-6">
+                <h2 class="os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.3s">{{ page.title|raw }}</h2>
+                <span class="line os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.4s"></span>
+                <div class="os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.5s">{{ content|raw }}</div>
+                {% if page.header.button_url %}
+                    <div class="button-container">
+                        <a href="{{ page.header.button_url }}" class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.5s">{{ page.header.button_label }}</a>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    {% if page.header.right_image %}
+    <div class="laptop os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.5s">
+        {{ page.media.images[page.header.right_image].cache.html('', page.header.right_image_alt)|raw }}
+    </div>
+    {% endif %}
+</div>

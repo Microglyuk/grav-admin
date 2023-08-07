@@ -1,0 +1,85 @@
+1690896061
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:5:"Mache";s:12:"cache_enable";b:0;s:7:"content";a:2:{s:5:"items";s:13:"@self.modular";s:5:"order";a:3:{s:2:"by";s:7:"default";s:3:"dir";s:3:"asc";s:6:"custom";a:12:{i:0;s:5:"_cta2";i:1;s:6:"_about";i:2;s:5:"_cta1";i:3;s:5:"_cta3";i:4;s:9:"_services";i:5;s:8:"_updates";i:6;s:9:"_features";i:7;s:13:"_testimonials";i:8;s:7:"_prices";i:9;s:7:"_banner";i:10;s:8:"_contact";i:11;s:4:"_map";}}}s:4:"form";a:6:{s:6:"action";s:5:"/home";s:4:"name";s:7:"contact";s:20:"button_outer_classes";s:29:"form-group col-md-6 col-sm-12";s:6:"fields";a:4:{i:0;a:8:{s:4:"name";s:4:"name";s:5:"label";s:4:"Name";s:11:"placeholder";s:9:"Your name";s:12:"autocomplete";s:2:"on";s:4:"type";s:4:"text";s:12:"outerclasses";s:29:"form-group col-md-6 col-sm-12";s:7:"classes";s:9:"col-md-12";s:8:"validate";a:1:{s:8:"required";b:1;}}i:1;a:7:{s:4:"name";s:5:"email";s:5:"label";s:5:"Email";s:11:"placeholder";s:18:"Your email address";s:4:"type";s:5:"email";s:12:"outerclasses";s:29:"form-group col-md-6 col-sm-12";s:7:"classes";s:9:"col-md-12";s:8:"validate";a:1:{s:8:"required";b:1;}}i:2;a:8:{s:4:"name";s:7:"message";s:5:"label";s:7:"Message";s:11:"placeholder";s:12:"Your message";s:4:"type";s:8:"textarea";s:4:"rows";i:5;s:12:"outerclasses";s:20:"form-group col-md-12";s:7:"classes";s:9:"col-md-12";s:8:"validate";a:1:{s:8:"required";b:1;}}i:3;a:8:{s:4:"name";s:20:"g-recaptcha-response";s:5:"label";s:7:"Captcha";s:4:"type";s:7:"captcha";s:12:"outerclasses";s:20:"form-group col-md-12";s:7:"classes";s:9:"col-md-12";s:18:"recaptcha_site_key";N;s:23:"recaptcha_not_validated";s:18:"Captcha not valid!";s:8:"validate";a:1:{s:8:"required";b:1;}}}s:7:"buttons";a:1:{i:0;a:2:{s:4:"type";s:6:"submit";s:5:"value";s:6:"Submit";}}s:7:"process";a:4:{i:0;a:1:{s:7:"captcha";a:1:{s:16:"recaptcha_secret";N;}}i:1;a:1:{s:5:"email";a:2:{s:7:"subject";s:43:"[Site Contact Form] {{ form.value.name|e }}";s:4:"body";s:36:"{% include 'forms/data.html.twig' %}";}}i:2;a:1:{s:4:"save";a:4:{s:10:"fileprefix";s:8:"contact-";s:10:"dateformat";s:9:"Ymd-His-u";s:9:"extension";s:3:"txt";s:4:"body";s:35:"{% include 'forms/data.txt.twig' %}";}}i:3;a:1:{s:7:"display";s:9:"thank-you";}}}}s:11:"frontmatter";s:2241:"title: Mache
+cache_enable: false
+content:
+    items: '@self.modular'
+    order:
+        by: default
+        dir: asc
+        custom:
+            - _cta2
+            - _about
+            - _cta1
+            - _cta3
+            - _services
+            - _updates
+            - _features
+            - _testimonials
+            - _prices
+            - _banner
+            - _contact
+            - _map
+form:
+    action: /home
+    name: contact
+    button_outer_classes: 'form-group col-md-6 col-sm-12'
+    fields:
+        -
+            name: name
+            label: Name
+            placeholder: 'Your name'
+            autocomplete: 'on'
+            type: text
+            outerclasses: 'form-group col-md-6 col-sm-12'
+            classes: col-md-12
+            validate:
+                required: true
+        -
+            name: email
+            label: Email
+            placeholder: 'Your email address'
+            type: email
+            outerclasses: 'form-group col-md-6 col-sm-12'
+            classes: col-md-12
+            validate:
+                required: true
+        -
+            name: message
+            label: Message
+            placeholder: 'Your message'
+            type: textarea
+            rows: 5
+            outerclasses: 'form-group col-md-12'
+            classes: col-md-12
+            validate:
+                required: true
+        -
+            name: g-recaptcha-response
+            label: Captcha
+            type: captcha
+            outerclasses: 'form-group col-md-12'
+            classes: col-md-12
+            recaptcha_site_key: null
+            recaptcha_not_validated: 'Captcha not valid!'
+            validate:
+                required: true
+    buttons:
+        -
+            type: submit
+            value: Submit
+    process:
+        -
+            captcha:
+                recaptcha_secret: null
+        -
+            email:
+                subject: '[Site Contact Form] {{ form.value.name|e }}'
+                body: '{% include ''forms/data.html.twig'' %}'
+        -
+            save:
+                fileprefix: contact-
+                dateformat: Ymd-His-u
+                extension: txt
+                body: '{% include ''forms/data.txt.twig'' %}'
+        -
+            display: thank-you";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1690893905;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"modular";i:1690893905;}}s:8:"children";a:13:{s:9:"thank-you";b:0;s:6:"_about";b:0;s:7:"_banner";b:0;s:8:"_contact";b:0;s:5:"_cta1";b:0;s:5:"_cta2";b:0;s:5:"_cta3";b:0;s:9:"_features";b:0;s:4:"_map";b:0;s:7:"_prices";b:0;s:9:"_services";b:0;s:13:"_testimonials";b:0;s:8:"_updates";b:0;}s:8:"checksum";s:32:"98326bb79e4f7d98a9fa4b527f3a2a2e";}}

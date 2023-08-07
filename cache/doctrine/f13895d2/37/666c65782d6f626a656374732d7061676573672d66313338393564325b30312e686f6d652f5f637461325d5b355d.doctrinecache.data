@@ -1,0 +1,8 @@
+1690894957
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_cta2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:23:"Mache Free PSD Template";s:12:"button_label";s:9:"SHOW MORE";s:10:"button_url";s:1:"#";s:16:"background_image";s:34:"Firefly Inpaint 20230801150845.png";}s:11:"frontmatter";s:129:"title: 'Mache Free PSD Template'
+button_label: 'SHOW MORE'
+button_url: '#'
+background_image: 'Firefly Inpaint 20230801150845.png'";s:8:"markdown";s:464:"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et <br>dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip <br>ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse <br>
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,<br>
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+";}s:7:"storage";a:6:{s:3:"key";s:10:"home/_cta2";s:11:"storage_key";s:13:"01.home/_cta2";s:8:"template";s:4:"cta2";s:17:"storage_timestamp";i:1690891796;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"cta2";i:1690891796;}}s:8:"checksum";s:32:"b8305666c3bfd09df27804c90fdfb87c";}}
